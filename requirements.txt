@@ -1,0 +1,9 @@
+ultralytics==8.4.21
+opencv-python
+numpy
+pillow
+pyyaml
+fastapi
+uvicorn[standard]
+python-multipart
+prometheus-client
